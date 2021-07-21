@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is an R Markdown file.
+"## This is an R Markdown file"
 
 ```{r cars}
 summary(cars)
