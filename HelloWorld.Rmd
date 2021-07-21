@@ -1,5 +1,2 @@
----
-title: "HelloWorld"
-output: word_document
 
 ## This is an R Markdown file
